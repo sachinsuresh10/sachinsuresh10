@@ -6,13 +6,14 @@ Hello! I'm Sachin Suresh, a passionate Data Analyst currently pursuing my Master
 
 ## About Me
 
-- **Name:** Sachin Suresh
-- **Location:** Southampton, UK
-- **Education:** M.Sc. in Data and Decision Analytics, University of Southampton
-- **Interests:** Data Analysis, Machine Learning, Data Visualization, Statistical Modeling
-- **Email:** [sacchinsureesh10@gmail.com](mailto:sacchinsureesh10@gmail.com)
-- **Portfolio:** [sachinsuresh](https://github.com/sachinsuresh10)
-- **LinkedIn:** [Sachin Suresh](https://www.linkedin.com/in/sachin-suresh10/)
+```diff
++ Name: Sachin Suresh
++ 📍 Location: Southampton, UK
++ 🎓 Education: M.Sc. in Data and Decision Analytics, University of Southampton
++ 💡 Interests: Data Analysis, Machine Learning, Data Visualization, Statistical Modeling
++ ✉️ Email: [sacchinsureesh10@gmail.com](mailto:sacchinsureesh10@gmail.com)
++ 🌐 Portfolio: [sachinsuresh](https://github.com/sachinsuresh10)
++ 🔗 LinkedIn: [Sachin Suresh](https://www.linkedin.com/in/sachin-suresh10/)
 
 ## Skills
 
