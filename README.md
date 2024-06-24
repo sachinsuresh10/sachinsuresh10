@@ -8,6 +8,8 @@ Hello! I'm Sachin Suresh, a passionate Data Analyst currently pursuing my Master
 
 - **Name:** Sachin Suresh
 - **Location:** Southampton, UK
+- **Education:** M.Sc. in Data and Decision Analytics, University of Southampton
+- **Interests:** Data Analysis, Machine Learning, Data Visualization, Statistical Modeling
 - **Email:** [sacchinsureesh10@gmail.com](mailto:sacchinsureesh10@gmail.com)
 - **Portfolio:** [sachinsuresh](https://github.com/sachinsuresh10)
 - **LinkedIn:** [Sachin Suresh](https://www.linkedin.com/in/sachin-suresh10/)
@@ -39,6 +41,4 @@ I'm always excited to connect with fellow data enthusiasts and professionals. Fe
 Thank you for visiting my GitHub profile. I look forward to collaborating and learning together!
 
 ---
-
-*This README file was last updated on [Date].*
 
