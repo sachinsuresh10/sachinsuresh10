@@ -6,7 +6,6 @@ Hello! I'm Sachin Suresh, a passionate Data Analyst currently pursuing my Master
 
 ## About Me
 
-```diff
 + Name: Sachin Suresh
 + 📍 Location: Southampton, UK
 + 🎓 Education: M.Sc. in Data and Decision Analytics, University of Southampton
