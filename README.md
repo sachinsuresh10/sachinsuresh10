@@ -13,6 +13,7 @@ Hello! I'm Sachin Suresh, a passionate Data Analyst currently pursuing my Master
 + ✉️ Email: [sacchinsureesh10@gmail.com](mailto:sacchinsureesh10@gmail.com)
 + 🌐 Portfolio: [sachinsuresh](https://github.com/sachinsuresh10)
 + 🔗 LinkedIn: [Sachin Suresh](https://www.linkedin.com/in/sachin-suresh10/)
++ 💼 **Experience:** Former Software Engineer at LTIMindtree
 
 ## Skills
 
