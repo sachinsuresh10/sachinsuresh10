@@ -71,7 +71,6 @@ Hello! I'm Sachin Suresh, a passionate Data Analyst currently pursuing my Master
 I'm always excited to connect with fellow data enthusiasts and professionals. Feel free to reach out to me through any of the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/sachin-suresh10/)
-- [Twitter](https://twitter.com/yourprofile)
 - [Email](mailto:sacchinsureesh10@gmail.com)
 
 Thank you for visiting my GitHub profile. I look forward to collaborating and learning together!
