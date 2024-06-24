@@ -21,11 +21,6 @@ Hello! I'm Sachin Suresh, a passionate Data Analyst currently pursuing my Master
 - **Databases:** MySQL, MongoDB, SQL Server
 - **Cloud:** Salesforce Commerce Cloud (SFCC)
 
-## Blog
-
-I also enjoy writing about my experiences and learnings in data analytics. Check out my blog for articles and tutorials:
-
-- [My Blog](https://yourblog.com)
 
 ## GitHub Stats
 
